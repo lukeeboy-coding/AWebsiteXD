@@ -2,14 +2,14 @@
 #include <stdlib.h>
 
 
-struct employee
+struct LM35
 {
     char name[4];
     int age;
     float weight;
 };
 
-void fun(struct employee*);
+void fun(struct LM35*);
 
 int main()
 {
@@ -19,7 +19,7 @@ int main()
     return 0;
 }
 
-void fun(struct employee *obj)
+void fun(struct LM35 *obj)
 {
 
 }
