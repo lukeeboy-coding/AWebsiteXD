@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,8 +23,3 @@ void fun(struct employee *obj)
 {
 
 }
-
-int *ptr;
-char *ptr;
-float *ptr;
-double *ptr; 
