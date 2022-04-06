@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultLocation": "editor",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.localEchoEnabled": "on",
+    "terminal.integrated.localEchoExcludePrograms": [],
+    "terminal.integrated.shellIntegration.enabled": true
+}
