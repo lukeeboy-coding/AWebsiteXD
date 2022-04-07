@@ -3,6 +3,14 @@
 #include <string.h>
 
 
-int main() {
-    
+struct house {
+    double position;
+    char owners [50];
+    char state [30];
+}
+
+
+
+int house() {
+   
 }
